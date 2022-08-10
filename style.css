@@ -1,0 +1,29 @@
+#image {
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.center {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+  }
+
+#title {
+    font-size: 400%;
+    width: 60vmax;
+    text-align: center;
+  }
+#title_p{
+    text-align: center
+}
+
+#tribute-info{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
